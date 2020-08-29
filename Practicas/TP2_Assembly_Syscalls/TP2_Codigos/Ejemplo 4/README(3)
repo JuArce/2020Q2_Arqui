@@ -1,0 +1,16 @@
+--------------------------------------
+Compilacion
+--------------------------------------
+Para generar el ejecutable, primero es necesario generar los archivos objeto, 
+
+$> nasm -f elf hello.asm
+
+Luego, es necesario linkearlo, y resolver los valores no resueltos.
+
+$> ld -melf32_i386 hello.o -o hello
+
+El programa está listo para correr, y ya poseé los permisos necesarios.
+
+$> ./hello
+
+--------------------------------------

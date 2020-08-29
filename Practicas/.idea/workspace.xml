@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8805c48-d4cb-4730-893e-29ae402f8c8d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gei0Kmv2jghgvQqMYbNz1BvafV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="CMakeRunConfiguration" factoryName="Application" nameIsGenerated="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" RUN_PATH="$PROJECT_DIR$/TP2_Assembly_Syscalls/TP2_Codigos/Ej5_Multiplos_n/Ej5_Multiplos_n" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" RUN_PATH="$PROJECT_DIR$/TP2_Assembly_Syscalls/TP2_Codigos/Ej5_Multiplos_n/Ej5_Multiplos_n" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8805c48-d4cb-4730-893e-29ae402f8c8d" name="Default Changelist" comment="" />
+      <created>1598481235895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598481235895</updated>
+      <workItem from="1598481237165" duration="5606000" />
+      <workItem from="1598708050141" duration="3156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="193" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598481884060">
+      <screen x="0" y="27" width="1920" height="884" />
+    </state>
+    <state x="418" y="193" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.884/1920.179.1360.768@0.27.1920.884" timestamp="1598481884060" />
+    <state x="192" y="27" width="1507" height="884" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598481601554">
+      <screen x="0" y="27" width="1920" height="884" />
+    </state>
+    <state x="192" y="27" width="1507" height="884" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.884/1920.179.1360.768@0.27.1920.884" timestamp="1598481601554" />
+    <state x="743" y="303" width="424" height="520" key="FileChooserDialogImpl" timestamp="1598711484977">
+      <screen x="0" y="27" width="1920" height="873" />
+    </state>
+    <state x="743" y="303" width="424" height="520" key="FileChooserDialogImpl/0.27.1920.873/1920.168.1360.768@0.27.1920.873" timestamp="1598711484977" />
+    <state x="743" y="306" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.884/1920.179.1360.768@0.27.1920.884" timestamp="1598481862510" />
+    <state x="449" y="163" width="1022" height="737" key="SettingsEditor" timestamp="1598711027469">
+      <screen x="0" y="27" width="1920" height="873" />
+    </state>
+    <state x="449" y="192" width="1022" height="737" key="SettingsEditor/0.27.1920.1017/1920.179.1360.768@0.27.1920.1017" timestamp="1598486837877" />
+    <state x="449" y="163" width="1022" height="737" key="SettingsEditor/0.27.1920.873/1920.168.1360.768@0.27.1920.873" timestamp="1598711027469" />
+    <state x="449" y="170" width="1022" height="737" key="SettingsEditor/0.27.1920.884/1920.179.1360.768@0.27.1920.884" timestamp="1598481405332" />
+    <state x="555" y="271" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598711225101">
+      <screen x="0" y="27" width="1920" height="873" />
+    </state>
+    <state x="555" y="271" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.873/1920.168.1360.768@0.27.1920.873" timestamp="1598711225101" />
+    <state x="764" y="447" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598711358020">
+      <screen x="0" y="27" width="1920" height="873" />
+    </state>
+    <state x="764" y="447" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog/0.27.1920.873/1920.168.1360.768@0.27.1920.873" timestamp="1598711358020" />
+  </component>
+</project>
