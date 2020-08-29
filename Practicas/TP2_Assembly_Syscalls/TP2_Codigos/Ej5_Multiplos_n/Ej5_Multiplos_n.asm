@@ -46,9 +46,8 @@ end:
 section .data
     n dd 2
     k dd 24
-    jumpLine db 10
-    space db 32
-
+    space dw 32
+    jumpLine dw 10
 
 section .bss
     placeholder resb 10
