@@ -7,12 +7,10 @@ extern print
 
 _start:
 ;mul op multiplica eax = eax * op
-    mov bl, [n] ;En ebx esta el numero a calcular su factorial
+    mov ebx, [n] ;En ebx esta el numero a calcular su factorial
     mov eax, 1 ;En eax guardo el resultado
-    cmp ebx, 0
-    jle terminate
     call factorial
-terminate:
+
     push placeholder
     push eax
     call numtostr
@@ -23,7 +21,7 @@ terminate:
 
 factorial:
     cmp ebx, 1
-    je end
+    jle end
     mul ebx
     dec ebx
     jmp factorial
@@ -32,7 +30,7 @@ end:
     ret
 
 section .data
-    n db 1
+    n dd 11
     jumpLine dd 10 ;Ascii del salto de linea
 
 section .bss
