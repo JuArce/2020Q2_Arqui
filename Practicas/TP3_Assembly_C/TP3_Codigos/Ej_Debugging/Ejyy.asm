@@ -10,7 +10,7 @@ main:
      push fmt
      push buffer
      call sprintf
-     and esp, 3*4
+     add esp, 3*4
      push buffer
      call puts
      add esp,4
