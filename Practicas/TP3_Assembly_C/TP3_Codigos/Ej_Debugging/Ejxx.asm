@@ -24,8 +24,8 @@ main:
 	push	ecx  ; backup
 	push	eax  ; *argv
 
-	push	fmtB ; formato
 	push    ebx
+	push	fmtB ; formato
 
 	call 	printf
 	add		esp,4*3 ; borramos los datos usados de la pila

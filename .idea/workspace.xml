@@ -18,65 +18,27 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb015493-b24a-4382-b63d-b7d610af9f09" name="Default Changelist" comment="Se agrega la carpeta para el tp3">
-      <change afterPath="$PROJECT_DIR$/Practicas/TP2_Assembly_Syscalls/TP2_Codigos/Ej12_Stack_Bytes/Ej12_Stack_Bytes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP2_Assembly_Syscalls/TP2_Codigos/Ej12_Stack_Bytes/Ej12_Stack_Bytes.asm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP2_Assembly_Syscalls/TP2_Codigos/Ej12_Stack_Bytes/Ej12_Stack_Bytes.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej1_PrintArgs/Ej1_PrintArgs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej1_PrintArgs/Ej1_PrintArgs.asm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej1_PrintArgs/Ej1_PrintArgs.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej2_PrintArgsC/Ej2_PrintArgs.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej2_PrintArgsC/Ej2_PrintArgs.s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej2_PrintArgsC/e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej3_-fno-builtin/Ej3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej3_-fno-builtin/Ej3.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej3_-fno-builtin/Ej3.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej3_-fno-builtin/sys_write.asm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej3_-fno-builtin/sys_write.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej4_factorial/f.s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej4_factorial/factorial.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej4_factorial/factorial.s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej5_ret7/Ej5_return7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej5_ret7/Ej5_return7.asm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej5_ret7/Ej5_return7.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej5_ret7/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej5_ret7/main.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej_Debugging/Ejxx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej_Debugging/Ejxx.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej_Debugging/Ejyy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej_Debugging/Ejyy.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej_Debugging/printf_null" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej_Debugging/printf_null.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ejemplo1_HelloWorld/HelloWorld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ejemplo1_HelloWorld/HelloWorld.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ejemplo1_HelloWorld/HelloWorld.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ejemplo1_HelloWorld/main.asm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ejemplo1_HelloWorld/main.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ejemplo2/Ejemplo2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ejemplo2/main" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ejemplo2/main.asm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ejemplo2/main.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ejemplo3_PrintNumArgs/Ejemplo3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ejemplo3_PrintNumArgs/Ejemplo3.asm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ejemplo3_PrintNumArgs/Ejemplo3.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ejemplo4_pid/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ejemplo4_pid/main.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ejemplo4_pid/main.s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ejemplo4_pid/pid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ejemplo4_pid/pid.asm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ejemplo4_pid/pid.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/RecepcionDeParametros/puts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/RecepcionDeParametros/puts.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/RecepcionDeParametros/puts.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/RecepcionDeParametros/sys_write.asm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/RecepcionDeParametros/sys_write.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/libasm(2).o" afterDir="false" />
+    <list default="true" id="bb015493-b24a-4382-b63d-b7d610af9f09" name="Default Changelist" comment="Ejercicios de debugging del tp3">
+      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej6_Variables/Ej6_b.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej6_Variables/Ej6_b.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej6_Variables/Ej6_c.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej6_Variables/Ej6_c.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej6_Variables/Ej6_d.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej6_Variables/Ej6_e_1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej6_Variables/Ej6_e_2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej6_Variables/Ej6_f.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej8_start/start.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej9_libasm/Ej9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej9_libasm/Ej9_libasm.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej9_libasm/Ej9_libasm.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej9_libasm/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej9_libasm/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/libasm(2).asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/libasm.asm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practicas/TP2_Assembly_Syscalls/TP2_Codigos/Ej11_PrintUser/Ej11_PrintUser" beforeDir="false" afterPath="$PROJECT_DIR$/Practicas/TP2_Assembly_Syscalls/TP2_Codigos/Ej11_PrintUser/Ej11_PrintUser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practicas/TP2_Assembly_Syscalls/TP2_Codigos/Ej11_PrintUser/Ej11_PrintUser.asm" beforeDir="false" afterPath="$PROJECT_DIR$/Practicas/TP2_Assembly_Syscalls/TP2_Codigos/Ej11_PrintUser/Ej11_PrintUser.asm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practicas/TP2_Assembly_Syscalls/TP2_Codigos/Ej11_PrintUser/Ej11_PrintUser.o" beforeDir="false" afterPath="$PROJECT_DIR$/Practicas/TP2_Assembly_Syscalls/TP2_Codigos/Ej11_PrintUser/Ej11_PrintUser.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ejxx.asm" beforeDir="false" afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej_Debugging/Ejxx.asm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ejyy.asm" beforeDir="false" afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej_Debugging/Ejyy.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej_Debugging/Ejxx" beforeDir="false" afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej_Debugging/Ejxx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej_Debugging/Ejxx.asm" beforeDir="false" afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej_Debugging/Ejxx.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej_Debugging/Ejxx.o" beforeDir="false" afterPath="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej_Debugging/Ejxx.o" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +66,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej3_-fno-builtin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -113,14 +75,14 @@
       <recent name="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej_Debugging" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej3_-fno-builtin" />
       <recent name="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos" />
+      <recent name="$PROJECT_DIR$/Practicas/TP3_Assembly_C/TP3_Codigos/Ej3_-fno-builtin" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -136,7 +98,11 @@
       <workItem from="1599075934310" duration="8047000" />
       <workItem from="1599319154668" duration="3532000" />
       <workItem from="1599404006883" duration="14847000" />
-      <workItem from="1599588393310" duration="4799000" />
+      <workItem from="1599588393310" duration="5675000" />
+      <workItem from="1599679722088" duration="1376000" />
+      <workItem from="1599932074350" duration="604000" />
+      <workItem from="1599933625321" duration="5842000" />
+      <workItem from="1600006437366" duration="9932000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1598711877822</created>
@@ -166,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599076036703</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ejercicios de debugging del tp3">
+      <created>1599593416124</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599593416124</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,13 +163,14 @@
     <MESSAGE value="Ej 6" />
     <MESSAGE value="Hasta el 14, falta 8 y 11" />
     <MESSAGE value="Se agrega la carpeta para el tp3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se agrega la carpeta para el tp3" />
+    <MESSAGE value="Ejercicios de debugging del tp3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios de debugging del tp3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="642" y="337" width="626" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599404590824">
+    <state x="642" y="337" width="626" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599947953439">
       <screen x="0" y="27" width="1920" height="873" />
     </state>
-    <state x="642" y="337" width="626" height="403" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.873/1920.168.1360.768@0.27.1920.873" timestamp="1599404590824" />
+    <state x="642" y="337" width="626" height="403" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.873/1920.168.1360.768@0.27.1920.873" timestamp="1599947953439" />
     <state x="743" y="293" width="424" height="491" key="FileChooserDialogImpl" timestamp="1599082410835">
       <screen x="0" y="27" width="1920" height="873" />
     </state>
@@ -205,9 +179,9 @@
       <screen x="0" y="27" width="1920" height="873" />
     </state>
     <state x="449" y="163" width="1022" height="737" key="SettingsEditor/0.27.1920.873/1920.168.1360.768@0.27.1920.873" timestamp="1598742341436" />
-    <state x="555" y="271" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599076041182">
+    <state x="555" y="271" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599593420485">
       <screen x="0" y="27" width="1920" height="873" />
     </state>
-    <state x="555" y="271" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.873/1920.168.1360.768@0.27.1920.873" timestamp="1599076041182" />
+    <state x="555" y="271" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.873/1920.168.1360.768@0.27.1920.873" timestamp="1599593420485" />
   </component>
 </project>
