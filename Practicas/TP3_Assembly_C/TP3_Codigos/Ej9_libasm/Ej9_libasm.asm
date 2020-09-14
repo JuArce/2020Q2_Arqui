@@ -14,7 +14,7 @@ section .text
 ;	ebx: valor de retorno al sistema operativo
 ;-----------------------------------------------------------
 ;exit:
-;    mov eax, ebx
+;   mov eax, ebx
 ;	mov eax, 1		; ID del Syscall EXIT
 ;	int 80h			; Ejecucion de la llamada
 
@@ -22,7 +22,9 @@ section .text
 ; read - leer de un file descriptor
 ;-----------------------------------------------------------
 ; Argumentos:
-;
+;   ebx: file descriptor
+;   ecx: buffer donde se va a copiar lo leido
+;   edx: tamaño del buffer
 ;-----------------------------------------------------------
 read:
     mov eax, SYS_read
@@ -37,25 +39,47 @@ read:
 ; write - escribir a un file descriptor
 ;-----------------------------------------------------------
 ; Argumentos:
-;
+;   ebx: file descriptor
+;   ecx: buffer donde se va a leer
+;   edx: tamaño del buffer
 ;-----------------------------------------------------------
 write:
+    mov eax, SYS_write
+    mov ebx, [esp+4]
+    mov ecx, [esp+8]
+    mov edx, [esp+12]
+    int 80h
+    ret
+
 
 ;-----------------------------------------------------------
 ; open - abrir un archivo
 ;-----------------------------------------------------------
 ; Argumentos:
-;
+;   ebx: file name a abrir
+;   ecx: access mode (0, 1, 2)
+;   edx: file permissions
 ;-----------------------------------------------------------
 open:
+        mov eax, SYS_open
+        mov ebx, [esp+4]
+        mov ecx, [esp+8]
+        mov edx, [esp+12]
+        int 80h
+        ret
 
 ;-----------------------------------------------------------
 ; close - cerrar un archivo
 ;-----------------------------------------------------------
 ; Argumentos:
-;
+;   ebx: file descriptor a cerrar
 ;-----------------------------------------------------------
 close:
+    mov eax, SYS_close
+    mov ebx, [esp+4]
+    int 80h
+    ret
+
 
 
 section .data
