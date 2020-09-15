@@ -105,6 +105,7 @@ numtostr:
 
 ;-----------------------------------------------------------
 ; read - leer de un file descriptor
+; extern int read(int file_descriptor, char * buffer, int size);
 ;-----------------------------------------------------------
 ; Argumentos:
 ;   ebx: file descriptor
@@ -122,6 +123,7 @@ read:
 
 ;-----------------------------------------------------------
 ; write - escribir a un file descriptor
+; extern int write(int file_descriptor, char * buffer, int size);
 ;-----------------------------------------------------------
 ; Argumentos:
 ;   ebx: file descriptor
@@ -139,6 +141,7 @@ write:
 
 ;-----------------------------------------------------------
 ; open - abrir un archivo
+; extern int open(char * file_name, int access_mode, int file_permissions);
 ;-----------------------------------------------------------
 ; Argumentos:
 ;   ebx: file name a abrir
@@ -155,6 +158,7 @@ open:
 
 ;-----------------------------------------------------------
 ; close - cerrar un archivo
+; extern int close(int file_descriptor);
 ;-----------------------------------------------------------
 ; Argumentos:
 ;   ebx: file descriptor a cerrar
