@@ -18,7 +18,148 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8805c48-d4cb-4730-893e-29ae402f8c8d" name="Default Changelist" comment="" />
+    <list default="true" id="b8805c48-d4cb-4730-893e-29ae402f8c8d" name="Default Changelist" comment="Reestructuración del repositorio">
+      <change afterPath="$PROJECT_DIR$/TP1/fortune" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/fortune_64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/password_easy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/password_easy_64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/password_hard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/password_hard_64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/password_ofuscated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP1/password_ofuscated_64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej10_PrintArgs/Ej10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej10_PrintArgs/Ej10_PrintArgs.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej10_PrintArgs/Ej10_PrintArgs.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej11_PrintUser/Ej11_PrintUser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej11_PrintUser/Ej11_PrintUser.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej11_PrintUser/Ej11_PrintUser.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej12_Stack_Bytes/Ej12_Stack_Bytes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej12_Stack_Bytes/Ej12_Stack_Bytes.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej12_Stack_Bytes/Ej12_Stack_Bytes.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej13_getPid/Ej13_getPid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej13_getPid/Ej13_getPid.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej13_getPid/Ej13_getPid.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej14_Fork/Ej14_Fork" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej14_Fork/Ej14_Fork.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej14_Fork/Ej14_Fork.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej1_HelloWorld/Ej1_HelloWorld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej1_HelloWorld/Ej1_HelloWorld.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej1_HelloWorld/Ej1_HelloWorld.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej2_toMayus/Ej2_toMayus" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej2_toMayus/Ej2_toMayus.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej2_toMayus/Ej2_toMayus.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej3_IntToString/Ej3_IntToString" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej3_IntToString/Ej3_IntToString.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej3_IntToString/Ej3_IntToString.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej4_Sum_n/Ej4_Sum_n" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej4_Sum_n/Ej4_Sum_n.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej4_Sum_n/Ej4_Sum_n.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej5_Multiplos_n/Ej5_Multiplos_n" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej5_Multiplos_n/Ej5_Multiplos_n.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej5_Multiplos_n/Ej5_Multiplos_n.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej6_Factorial/Ej6_Factorial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej6_Factorial/Ej6_Factorial.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej6_Factorial/Ej6_Factorial.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej7_Min_array/Ej7_Min_array" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej7_Min_array/Ej7_Min_array.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej7_Min_array/Ej7_Min_array.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej8_ArraySort/Ej8_ArraySort.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej9_Print_NumArgs/Ej9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej9_Print_NumArgs/Ej9_Print_NumArgs.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ej9_Print_NumArgs/Ej9_Print_NumArgs.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ejemplo 1/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ejemplo 1/hello.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ejemplo 2/README(1)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ejemplo 2/hello(1).asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ejemplo 3/README(2)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ejemplo 3/hello(2).asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ejemplo 3/libasm.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ejemplo 4/README(3)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ejemplo 4/hello(3).asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ejemplo 4/libasm(1).asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ejemplo 7/arma.sh.renombrar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ejemplo 7/hello(4).asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/Ejemplo 7/libasm(2).asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/TP2 - Assembly y System Calls.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/libasm(2).asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/libasm(2).o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/strtonum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/strtonum.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_Assembly_Syscalls/strtonum.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej10_cpuid/Ej10_cpuid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej10_cpuid/Ej10_cpuid.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej10_cpuid/Ej10_cpuid.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej1_PrintArgs/Ej1_PrintArgs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej1_PrintArgs/Ej1_PrintArgs.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej1_PrintArgs/Ej1_PrintArgs.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej2_PrintArgsC/Ej2_PrintArgs.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej2_PrintArgsC/Ej2_PrintArgs.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej2_PrintArgsC/e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej3_-fno-builtin/Ej3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej3_-fno-builtin/Ej3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej3_-fno-builtin/Ej3.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej3_-fno-builtin/sys_write.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej3_-fno-builtin/sys_write.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej4_factorial/f.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej4_factorial/factorial.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej4_factorial/factorial.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej5_ret7/Ej5_return7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej5_ret7/Ej5_return7.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej5_ret7/Ej5_return7.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej5_ret7/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej5_ret7/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej6_Variables/Ej6_b.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej6_Variables/Ej6_b.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej6_Variables/Ej6_c.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej6_Variables/Ej6_c.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej6_Variables/Ej6_d.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej6_Variables/Ej6_e_1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej6_Variables/Ej6_e_2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej6_Variables/Ej6_f.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej8_start/start.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej9_libasm/Ej9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej9_libasm/Ej9_libasm.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej9_libasm/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej9_libasm/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej9_libasm/texto.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej_Debugging/Ejxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej_Debugging/Ejxx.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej_Debugging/Ejxx.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej_Debugging/Ejyy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej_Debugging/Ejyy.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej_Debugging/Ejyy.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej_Debugging/printf_null" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej_Debugging/printf_null.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ejemplo1_HelloWorld/HelloWorld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ejemplo1_HelloWorld/HelloWorld.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ejemplo1_HelloWorld/HelloWorld.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ejemplo1_HelloWorld/main.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ejemplo1_HelloWorld/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ejemplo2/Ejemplo2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ejemplo2/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ejemplo2/main.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ejemplo2/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ejemplo3_PrintNumArgs/Ejemplo3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ejemplo3_PrintNumArgs/Ejemplo3.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ejemplo3_PrintNumArgs/Ejemplo3.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ejemplo4_pid/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ejemplo4_pid/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ejemplo4_pid/main.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ejemplo4_pid/pid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ejemplo4_pid/pid.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ejemplo4_pid/pid.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ejercicio 1 TP3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/RecepcionDeParametros/puts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/RecepcionDeParametros/puts.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/RecepcionDeParametros/puts.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/RecepcionDeParametros/sys_write.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/RecepcionDeParametros/sys_write.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/TP3 - Assembly y C_.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/libasm(2).asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/libasm(2).o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/libasm.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/libasm.o" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,12 +185,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gei0Kmv2jghgvQqMYbNz1BvafV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
@@ -119,7 +263,16 @@
       <updated>1598481235895</updated>
       <workItem from="1598481237165" duration="5606000" />
       <workItem from="1598708050141" duration="3156000" />
+      <workItem from="1600198773226" duration="276000" />
     </task>
+    <task id="LOCAL-00001" summary="Reestructuración del repositorio">
+      <created>1600198827059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600198827059</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +288,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Reestructuración del repositorio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reestructuración del repositorio" />
   </component>
   <component name="WindowStateProjectService">
     <state x="418" y="193" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598481884060">
