@@ -146,7 +146,7 @@ write:
 ; Argumentos:
 ;   ebx: file name a abrir
 ;   ecx: access mode (0, 1, 2)
-;   edx: file permissions
+;   edx: file permissions /Necesarios solo al crear un archivo
 ;-----------------------------------------------------------
 open:
         mov eax, SYS_open
