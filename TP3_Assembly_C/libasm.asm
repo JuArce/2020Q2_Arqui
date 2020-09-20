@@ -9,7 +9,7 @@ GLOBAL close
 section .text
 
 ;-----------------------------------------------------------
-; print - imprimer una cadena en la salida estandar
+; print - imprime una cadena en la salida estandar
 ;-----------------------------------------------------------
 ; Argumentos:
 ;	ebx: cadena a imprimer en pantalla, terminada con 0

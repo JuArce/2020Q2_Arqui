@@ -18,7 +18,7 @@ cargo_datos:
           mov ecx,buffer 
           
           mov eax,3
-          int 80h 
+          int 80h
 
           push ecx
           push fmt
