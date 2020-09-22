@@ -19,13 +19,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8805c48-d4cb-4730-893e-29ae402f8c8d" name="Default Changelist" comment="Reestructuración del repositorio">
-      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej12/ejemplo.s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej_Debugging/Ejzzz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej_Debugging/Ejzzz.asm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej_Debugging/Ejzzz.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP3_Assembly_C/Ej_Debugging/datos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_sep__2020_11_01_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_sep__2020_11_01__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP3_Assembly_C/libasm.asm" beforeDir="false" afterPath="$PROJECT_DIR$/TP3_Assembly_C/libasm.asm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,11 +62,11 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Primer-Parcial-Arqui" />
     <property name="nodejs.jest.jest_package" value="" />
     <property name="nodejs.protractor.protractor_package" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RunManager">
     <configuration name="Unnamed" type="CMakeRunConfiguration" factoryName="Application" nameIsGenerated="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" RUN_PATH="$PROJECT_DIR$/TP2_Assembly_Syscalls/TP2_Codigos/Ej5_Multiplos_n/Ej5_Multiplos_n" EXPLICIT_BUILD_TARGET_NAME="all">
@@ -136,6 +132,9 @@
       <workItem from="1600207572608" duration="6783000" />
       <workItem from="1600283308435" duration="3316000" />
       <workItem from="1600290945823" duration="30000" />
+      <workItem from="1600719841717" duration="100000" />
+      <workItem from="1600811529254" duration="274000" />
+      <workItem from="1600811943600" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="Reestructuración del repositorio">
       <created>1600198827059</created>
@@ -184,16 +183,16 @@
       <screen x="0" y="27" width="1920" height="884" />
     </state>
     <state x="192" y="27" width="1507" height="884" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.884/1920.179.1360.768@0.27.1920.884" timestamp="1598481601554" />
-    <state x="529" y="233" width="313" height="440" key="FileChooserDialogImpl" timestamp="1600203790603">
+    <state x="529" y="233" width="313" height="440" key="FileChooserDialogImpl" timestamp="1600719875074">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="529" y="233" width="313" height="440" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1600203790603" />
+    <state x="529" y="233" width="313" height="440" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1600719875074" />
     <state x="743" y="303" width="424" height="520" key="FileChooserDialogImpl/0.27.1920.873/1920.168.1360.768@0.27.1920.873" timestamp="1598711484977" />
     <state x="743" y="306" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.884/1920.179.1360.768@0.27.1920.884" timestamp="1598481862510" />
-    <state x="319" y="30" width="916" height="708" key="SettingsEditor" timestamp="1600208225873">
+    <state x="319" y="30" width="916" height="708" key="SettingsEditor" timestamp="1600811707854">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="319" y="30" width="916" height="708" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1600208225873" />
+    <state x="319" y="30" width="916" height="708" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1600811707854" />
     <state x="449" y="192" width="1022" height="737" key="SettingsEditor/0.27.1920.1017/1920.179.1360.768@0.27.1920.1017" timestamp="1598486837877" />
     <state x="449" y="163" width="1022" height="737" key="SettingsEditor/0.27.1920.873/1920.168.1360.768@0.27.1920.873" timestamp="1598711027469" />
     <state x="449" y="170" width="1022" height="737" key="SettingsEditor/0.27.1920.884/1920.179.1360.768@0.27.1920.884" timestamp="1598481405332" />
